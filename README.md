@@ -22,9 +22,21 @@ This repository was created to practice Git and Git Hub Fundamentals
 
 
 
+\##Creating a New Branch
+
+\-Creating a New Branch with new information 
+
+\-Branch Name is KJ
+
+
+
 \##Author 
 
 
 
 Karon Green 
+
+
+
+
 
